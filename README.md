@@ -1,3 +1,8 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6d00a1"  />
+</div>
+
+
 <h2 align="center">👩🏻‍💻 Mel Vaz</h2>
 
 <h3 align="center"> Iniciante em programação </h3>
@@ -34,7 +39,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ### 📊 Estatísticas
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -42,7 +47,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellvaz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
@@ -51,6 +56,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </p>
 </div>
 
+
+
+
 #
 
 <picture align="center">
@@ -58,3 +66,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mellvaz/mellvaz/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mellvaz/mellvaz/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=igoikuxbro5648bdc6hyvpo04" alt="Spotify recently played"  />
+</div>
