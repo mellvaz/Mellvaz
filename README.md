@@ -11,8 +11,8 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas no Institudo Federal de São Paulo, em Bragança Paulista. Sou Técnica em Lógista, pois conclui o ensino médio técnico na ETEC. Atualmente trabalho como Auxiliar Administrativo.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Estou a procura de oportunidades para crescer me desenvolver na área
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas no Institudo Federal de São Paulo, em Bragança Paulista. Sou Técnica em Lógista, conclui o ensino médio técnico na ETEC. Atualmente trabalho como Auxiliar Administrativo.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Estou a procura de oportunidades para crescer e me desenvolver na área.
   
 #
 
