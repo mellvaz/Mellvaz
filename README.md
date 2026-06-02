@@ -39,29 +39,10 @@ Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São
 
 #
 
-<h3 align="left">📊 Estatísticas do GitHub</h3>
+<h3 align="left">📊 Visão Geral do Perfil</h3>
 
-<p align="center">
-  <img align="center" alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=mellvaz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="center" alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellvaz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
-
-#
-
-<h3 align="left">🐍 Contribuições</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mellvaz/mellvaz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mellvaz/mellvaz/output/github-contribution-grid-snake.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mellvaz/mellvaz/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-#
-
-<h3 align="left">🎵 Recentemente ouvido no Spotify</h3>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=igoikuxbro5648bdc6hyvpo04" alt="Spotify recently played" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Estudante%20de%20ADS-6d00a1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco%20Atual-Web%20%26%20Ciberseguran%C3%A7a-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Localidade-Mairipor%C3%A3%20--%20SP-darkgreen?style=for-the-badge" />
+</
